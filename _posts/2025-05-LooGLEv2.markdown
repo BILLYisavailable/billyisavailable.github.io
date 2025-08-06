@@ -7,10 +7,7 @@ categories: Paper
 author: "Yuxuan Wang"
 authors: "Ziyuan He, <strong>Yuxuan Wang</strong>, Jiaqi Li, Kexin Liang, Muhan Zhang"
 venue: "NeurIPS Datasets and Benchmarks Track Under Review"
-arxiv: 
-slides: 
 code: https://github.com/GraphPKU/LooGLE-v2
 huggingface: https://huggingface.co/GraphPKU/LooGLE-v2
-website:
 ---
 LooGLE is a benchmark designed to evaluate the long-text and long-dependency capabilities of large language models. Its key highlight is the use of ultra-long texts, with a strong emphasis on long-dependency, and it is entirely designed with real-world, real-task scenarios.
