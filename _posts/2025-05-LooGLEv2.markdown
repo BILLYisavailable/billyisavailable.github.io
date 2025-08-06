@@ -1,0 +1,16 @@
+---
+layout: Paper
+title:  "LooGLE v2: Are LLMs Ready for Real World Long Dependency Challenges?"
+date:   2025-05-18 00:00:00 +00:00
+image: /images/LooGLEv2.png
+categories: Paper
+author: "Yuxuan Wang"
+authors: "Ziyuan He, <strong>Yuxuan Wang</strong>, Jiaqi Li, Kexin Liang, Muhan Zhang"
+venue: "NeurIPS Datasets and Benchmarks Track Under Review"
+arxiv: 
+slides: 
+code: https://github.com/GraphPKU/LooGLE-v2
+huggingface: https://huggingface.co/GraphPKU/LooGLE-v2
+website:
+---
+LooGLE is a benchmark 考察大语言模型的长文本，长依赖能力。其核心亮点在于超长文本、着重强调long-dependency，全部real-world real-task设计。
