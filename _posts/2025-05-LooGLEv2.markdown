@@ -2,7 +2,7 @@
 layout: post
 title:  "LooGLE v2: Are LLMs Ready for Real World Long Dependency Challenges?"
 date:   2025-05-18 00:00:00 +00:00
-image: /images/LooGLEv2.png
+image: images/LooGLEv2.png
 categories: Paper
 author: "Yuxuan Wang"
 authors: "Ziyuan He, <strong>Yuxuan Wang</strong>, Jiaqi Li, Kexin Liang, Muhan Zhang"
