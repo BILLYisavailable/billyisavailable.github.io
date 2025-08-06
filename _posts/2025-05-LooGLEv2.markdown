@@ -13,4 +13,4 @@ code: https://github.com/GraphPKU/LooGLE-v2
 huggingface: https://huggingface.co/GraphPKU/LooGLE-v2
 website:
 ---
-LooGLE is a benchmark 考察大语言模型的长文本，长依赖能力。其核心亮点在于超长文本、着重强调long-dependency，全部real-world real-task设计。
+LooGLE is a benchmark designed to evaluate the long-text and long-dependency capabilities of large language models. Its key highlight is the use of ultra-long texts, with a strong emphasis on long-dependency, and it is entirely designed with real-world, real-task scenarios.
