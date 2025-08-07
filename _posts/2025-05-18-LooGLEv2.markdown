@@ -10,4 +10,4 @@ venue: "NeurIPS Datasets and Benchmarks Track Under Review"
 code: https://github.com/GraphPKU/LooGLE-v2
 huggingface: https://huggingface.co/datasets/GraphPKU/LooGLE-v2
 ---
-<strong>LooGLE v2</strong> is a benchmark designed to evaluate the long-text and long-dependency capabilities of large language models. Its key highlight is the use of ultra-long texts, with a strong emphasis on long-dependency, and it is entirely designed with real-world, real-task scenarios.
+<strong>LooGLE v2</strong> is a benchmark designed to evaluate the long-context and long-dependency capabilities of large language models. Its key highlight is the use of ultra-long texts, with a strong emphasis on long-dependency, and it is entirely designed with real-world, real-task scenarios.
